@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Popup menu colors -->
+    <color name="popup_bg">#333333</color>
+    <color name="popup_text">#FFFFFF</color>
+
+    <!-- Bookmark colors -->
+    <color name="bookmark_bg">#121212</color>
+    <color name="bookmark_card">#1E1E1E</color>
+    <color name="bookmark_text">#FFFFFF</color>
+
+    <!-- General text colors -->
+    <color name="primary_text">#FFFFFF</color>
+    <color name="secondary_text">#B0B0B0</color>
+</resources>

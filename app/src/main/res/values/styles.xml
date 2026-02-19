@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Toolbar 3-dot menu white -->
+    <style name="ToolbarOverflowWhite" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="actionMenuTextColor">@color/white</item>
+        <item name="android:tint">@android:color/white</item>
+    </style>
+
+    <!-- Popup menu -->
+    <style name="PopupMenuStyle" parent="Widget.AppCompat.PopupMenu">
+        <item name="android:popupBackground">@drawable/popup_bg</item>
+        <item name="android:textColor">@color/popup_text</item>
+    </style>
+
+</resources>

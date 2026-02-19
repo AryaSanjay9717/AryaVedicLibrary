@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_page">#FFF7EC</color>
+    <color name="card_bg">@color/white</color>
+    <color name="primary_text">#1F2937</color>
+    <color name="secondary_text">#6B7280</color>
+    <color name="accent">#2563EB</color>
+    <color name="divider">#E5E7EB</color>
+
+    <!-- Popup menu colors -->
+    <color name="popup_bg">@color/white</color>
+    <color name="popup_text">@color/black</color>
+
+    <!-- Bookmark colors -->
+    <color name="bookmark_bg">#FFF8F3</color>
+    <color name="bookmark_card">@color/white</color>
+    <color name="bookmark_text">#2B2B2B</color>
+
+</resources>

@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AryaVedicLibrary" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="popupMenuStyle">@style/PopupMenuStyle</item>
+    </style>
+
+    <style name="Theme.AryaVedicLibrary" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF7722</item>
+        <item name="colorSecondary">#FF9F45</item>
+    </style>
+    <style name="Theme.AryavedicLibrary" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Status bar background -->
+        <item name="android:statusBarColor">@android:color/black</item>
+
+        <!-- Light status bar = FALSE (means icons will be WHITE) -->
+        <item name="android:windowLightStatusBar">false</item>
+
+    </style>
+</resources>

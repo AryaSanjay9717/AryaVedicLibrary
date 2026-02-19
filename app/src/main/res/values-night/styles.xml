@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Popup menu -->
+    <style name="PopupMenuStyle" parent="Widget.AppCompat.PopupMenu">
+        <item name="android:popupBackground">@drawable/popup_bg</item>
+        <item name="android:textColor">@color/popup_text</item>
+    </style>
+
+</resources>
